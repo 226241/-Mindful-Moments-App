@@ -19,11 +19,20 @@ Create a mobile app that encourages and facilitates mindfulness and self-reflect
 
 7. **Mindful Reminders:** Allow users to set customizable reminders throughout the day to pause and engage in brief mindfulness exercises. These reminders could be linked to specific activities, locations, or times chosen by the user.
 
-**Tech Stack:**
-- Mobile App Development (iOS, Android)
-- AI and Machine Learning for personalization
-- Augmented Reality (AR) for immersive experiences
-- Cloud storage for user data
-- Social media integration for community features
-
 This project combines elements of AI, AR, and community building to create a unique and holistic approach to mindfulness and self-improvement.
+
+Submitted By
+
+Haridas Roy
+
+Id: 2002068
+
+Level : 3 Semester : I
+
+Submitted To
+
+Pankaj Bhowmik
+
+Lecturer
+
+Department of Computer Science and Engineering, HSTU
